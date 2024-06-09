@@ -18,6 +18,10 @@ Yirang 재가봉사 매칭 서비스는 피봉사자와 봉사자를 자동으�
 * 박연후 (FE)
 * 김영경 (Designer)
 
+## Infra
+![image](https://github.com/ChoiYongWon/Yirang/assets/40623433/ab708ec6-e55d-4b3b-b73c-ec3b46ae2877)
+
+
 ## What I Did
 - 아토믹 디자인 패턴을 도입하며 컴포넌트를 세분화 시켰습니다.
 - Layout Grid 시스템을 재사용 가능하게 구현하여 일관성 있는 레이아웃을 확보할 수 있었습니다.
